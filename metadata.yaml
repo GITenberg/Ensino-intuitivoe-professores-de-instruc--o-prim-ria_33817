@@ -1,0 +1,31 @@
+_repo: Ensino-intuitivoe-professores-de-instruc--o-prim-ria_33817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Telles, João José de Sousa
+    aliases:
+    - Sousa Telles, João José de
+    - Telles, Joao Jose de Sousa
+    - De Sousa Telles, João José
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '36646'
+    url: http://www.gutenberg.org/2009/agents/36646
+description: ''
+gutenberg_issued: '2010-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33817'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'L'
+title: "Ensino intuitivo\r\nlivro destinado às mães e paes de familia e às professoras\
+  \ e professores de instrucção primária"
+url: http://www.gutenberg.org/ebooks/33817
